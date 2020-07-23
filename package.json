@@ -2,6 +2,7 @@
   "name": "pupster",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://samuelyoo.github.io/pupster",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -17,11 +18,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "engines": {
     "npm": "6.14.5",
     "node": "12.16.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app" 
   },
   "browserslist": {
     "production": [
