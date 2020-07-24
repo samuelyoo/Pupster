@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pupster/static/css/main.5161d8a5.chunk.css",
-    "main.js": "/pupster/static/js/main.2c6baca0.chunk.js",
-    "main.js.map": "/pupster/static/js/main.2c6baca0.chunk.js.map",
-    "runtime-main.js": "/pupster/static/js/runtime-main.2d8bf639.js",
-    "runtime-main.js.map": "/pupster/static/js/runtime-main.2d8bf639.js.map",
-    "static/js/2.c9b3c6d4.chunk.js": "/pupster/static/js/2.c9b3c6d4.chunk.js",
-    "static/js/2.c9b3c6d4.chunk.js.map": "/pupster/static/js/2.c9b3c6d4.chunk.js.map",
-    "index.html": "/pupster/index.html",
-    "precache-manifest.435128bde37738566c5ced5a4d80339e.js": "/pupster/precache-manifest.435128bde37738566c5ced5a4d80339e.js",
-    "service-worker.js": "/pupster/service-worker.js",
-    "static/css/main.5161d8a5.chunk.css.map": "/pupster/static/css/main.5161d8a5.chunk.css.map",
-    "static/js/2.c9b3c6d4.chunk.js.LICENSE.txt": "/pupster/static/js/2.c9b3c6d4.chunk.js.LICENSE.txt",
-    "static/media/kuro_bg.jpg": "/pupster/static/media/kuro_bg.c0f23a81.jpg"
+    "main.css": "/Pupster/static/css/main.5161d8a5.chunk.css",
+    "main.js": "/Pupster/static/js/main.2c6baca0.chunk.js",
+    "main.js.map": "/Pupster/static/js/main.2c6baca0.chunk.js.map",
+    "runtime-main.js": "/Pupster/static/js/runtime-main.00d4a6e9.js",
+    "runtime-main.js.map": "/Pupster/static/js/runtime-main.00d4a6e9.js.map",
+    "static/js/2.c9b3c6d4.chunk.js": "/Pupster/static/js/2.c9b3c6d4.chunk.js",
+    "static/js/2.c9b3c6d4.chunk.js.map": "/Pupster/static/js/2.c9b3c6d4.chunk.js.map",
+    "index.html": "/Pupster/index.html",
+    "precache-manifest.5d7bcdfa0e79f6e743350f31f522e91a.js": "/Pupster/precache-manifest.5d7bcdfa0e79f6e743350f31f522e91a.js",
+    "service-worker.js": "/Pupster/service-worker.js",
+    "static/css/main.5161d8a5.chunk.css.map": "/Pupster/static/css/main.5161d8a5.chunk.css.map",
+    "static/js/2.c9b3c6d4.chunk.js.LICENSE.txt": "/Pupster/static/js/2.c9b3c6d4.chunk.js.LICENSE.txt",
+    "static/media/kuro_bg.jpg": "/Pupster/static/media/kuro_bg.c0f23a81.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d8bf639.js",
+    "static/js/runtime-main.00d4a6e9.js",
     "static/js/2.c9b3c6d4.chunk.js",
     "static/css/main.5161d8a5.chunk.css",
     "static/js/main.2c6baca0.chunk.js"
