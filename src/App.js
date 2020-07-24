@@ -9,7 +9,7 @@ import Wrapper from "./components/Wrapper";
 
 function App() {
   return (
-    <Router baseName ="/Pupster/">
+    <Router baseName ="Pupster/">
       <div>
         <Navbar />
         <Wrapper>
